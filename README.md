@@ -5,5 +5,6 @@ You, Ninjas, finished the hardest step; starting. Now its time to hone those ski
 
 On the right side (desktop), you sould see a green tab titled RELEASES. Each kid's file is titled with their YouTube name/handle.
 
-Kids and their Handle
+Kids and their Handles:
+
 Finn is Scruffaloe, Xaiden is GamerGuyZ, Vincent is LeonStuff, Rowan is CoolDude, Takoa is Hatter, and Gavin is Gibbs.
